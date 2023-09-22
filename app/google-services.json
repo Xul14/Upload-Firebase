@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232849874706",
+    "project_id": "upload-ds3t-julia",
+    "storage_bucket": "upload-ds3t-julia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232849874706:android:3f8f9e74f2bf7f48185dcb",
+        "android_client_info": {
+          "package_name": "com.example.upload_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCEDK1P6-oETRUfBB3uJSGhbdSqh7kH1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
